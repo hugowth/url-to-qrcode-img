@@ -570,9 +570,9 @@ uuid@8.1.0:
   integrity sha512-CI18flHDznR0lq54xBycOVmphdCYnQLKn8abKn7PXUiKUGdEd+/l9LWNJmugXel4hXq7S+RMNl34ecyC9TntWg==
 
 uuidv4@^6.0.0:
-  version "6.0.9"
-  resolved "https://registry.yarnpkg.com/uuidv4/-/uuidv4-6.0.9.tgz#cfab0855ef9f58aff8b0bb75c51670cf4242ecac"
-  integrity sha512-a/1nruGzltmS3RQkWD49/9/kj1D/bGwWl0SUcDbJJy1tvJ8/xnh4ADFshUwYDGiVNj1xmr23NsogQXBgvvTy5g==
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/uuidv4/-/uuidv4-6.1.0.tgz#a8d50c71e46da4dd0edc887a2b766a75e48e5740"
+  integrity sha512-BLAg+H3301PcC0Vp2Nq/q0qujpr2iI6NN2Kt28dtTFmHHZCXurq8+lDl9+XJzvavYBz2HJoUncjKx0+XVcTJIg==
   dependencies:
     uuid "8.1.0"
 
